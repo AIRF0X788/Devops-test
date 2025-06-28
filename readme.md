@@ -10,22 +10,22 @@ Il illustre la construction d’une application web simple, sa conteneurisation,
 ## 📁 Arborescence du projet
 
 TEST DEVOPS/
-├── Partie1/
-│ ├── p1_flask.py
-│ └── requirements.txt
-├── Partie2/
-│ ├── docker-compose.yml
-│ ├── Dockerfile
-│ ├── nginx.conf
-│ ├── p1_flask.py
-│ └── requirements.txt
-├── Partie3/
-│ ├── main.tf
-│ ├── pgdata/
-│ ├── terraform.tfstate
-│ ├── .terraform.lock.hcl
-│ ├── terraform.tfstate.backup
-│ └── .terraform
+- Partie1/
+    - p1_flask.py
+    - requirements.txt
+- Partie2/
+    - docker-compose.yml
+    - Dockerfile
+    - nginx.conf
+    - p1_flask.py
+    - requirements.txt
+- Partie3/
+    - main.tf
+    - pgdata/
+    - terraform.tfstate
+    - .terraform.lock.hcl
+    - terraform.tfstate.backup
+    - .terraform/
 
 ---
 
