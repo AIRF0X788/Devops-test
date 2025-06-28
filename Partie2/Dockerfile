@@ -8,3 +8,4 @@ COPY p1_flask.py .
 EXPOSE 5000
 
 CMD ["python", "p1_flask.py"]
+
